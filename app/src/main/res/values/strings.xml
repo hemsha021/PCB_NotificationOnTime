@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotificationOnTime</string>
+    <string name="simple_channel_name">Simple Notification</string>
+    <string name="simple_channel_description">Channel for Simple Notification</string>
+</resources>
